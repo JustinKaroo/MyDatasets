@@ -1,5 +1,3 @@
-     Figure 3.1 - Division of an area into its natural components
-
 The subdivision of main vegetation types into vegetation types is based on the relative uniformity of characteristics such as soil type, plant cover and steepness of slopes. Climate is the most important factor that determines a veld type, but as the division becomes smaller, as in the case of vegetation types, other factors such as soil and physiographic factors become more important. The vegetation type represents the smallest practical unit of subdivision with reference to farm planning. If a main vegetation type is too small to make subdivision worthwhile, it can be regarded as a vegetation type. 
 
 Sometimes when clearly different communities of limited extent can be recognised, it is termed subvegetation types. In practice, they are not separated unless they are regarded as particularly valuable to make separate fencing worthwhile. 
